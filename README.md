@@ -3,13 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitrobiani&label=Profile%20views&color=0e75b6&style=flat&theme=gotham" alt="vitrobiani" /> </p>
 
-🔭 I’m currently in my third year of study
-🌱 I’m currently learning **Rust and C++**
-
+🔭 I’m currently in my third year of study </br>
+🌱 I’m currently learning **Rust and C++** </br>
 📫 You can reach me there **vitrobiani@gmail.com** </br>
-  or on my <a href="www.vitrobiani.org" target=_blank>Website</a>
-
-👯 I’m looking to collaborate on 
+  or on my <a href="www.vitrobiani.org" target=_blank>Website</a> </br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
