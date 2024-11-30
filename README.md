@@ -5,8 +5,7 @@
 
 🔭 I’m currently in my third year of study </br>
 🌱 I’m currently learning **Rust and C++** </br>
-📫 You can reach me there **vitrobiani@gmail.com** </br>
-  or on my <a href="www.vitrobiani.org" target=_blank>Website</a> </br>
+📫 You can reach me there **vitrobiani@gmail.com** or on my [Website](https://www.vitrobiani.org/) </br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
