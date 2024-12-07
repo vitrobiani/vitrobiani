@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/omer-moshe-attia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omer-moshe-attia/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/omer-moshe-attia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omer-moshe-attia/" height="30" width="40" /></a>
 <a href="https://www.vitrobiani.org" target="blank"><img align="center" src="https://raw.githubusercontent.com/vitrobiani/vitrobiani/8291d3db7376c027a135dcfd79a20d5a5d116df0/assets/vitruvian-man-svgrepo-com%20(2).svg" alt="vitrobiani" height="45" width="45" /></a>
 </p>
 
